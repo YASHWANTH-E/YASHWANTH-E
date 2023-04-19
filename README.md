@@ -1,5 +1,8 @@
-# 💫 About Me:
-I am a mechanical engineer with a passion for coding. I have one year of IT experience under my belt and am particularly interested in web development. I have basic knowledge in AI/ML and have gained some work experience in software development. My technical skills include proficiency in Html, Css, JavaScript, Python, C#, .Netcore, MVC and SQL. I am excited to continue honing my skills and to explore new technologies in the field."
+# ❗ About Me:
+👨‍🔬 Mechanical Engineer with passion for coding. 
+💻 Software Engineer
+💡 Basic AI/ML
+💓 Working as Automation Engineer
 
 
 # 💻 Tech Stack:
